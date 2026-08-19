@@ -157,16 +157,14 @@ During this project, I learned:
 
 ## Screenshots collected during the activities:
 
-### Zenmap
-
-Ping Scan
+### Ping Scan
 
 Screenshot showing the Zenmap Ping Scan configuration and results.
 
 <img width="1919" height="1012" alt="Screenshot 2026-08-17 115343" src="https://github.com/user-attachments/assets/84256743-8a86-4cf3-9924-cdf2a215f64e" />
 
 
-Network Topology
+### Network Topology
 
 Screenshot showing the Zenmap Topology view.
 
