@@ -156,20 +156,20 @@ During this project, I learned:
 
 ## Screenshots collected during the activities:
 
-Domain Entity
+### Domain Entity
 
 Screenshot showing the networkwalks.com Domain entity in the Maltego workspace.
 
 <img width="1849" height="991" alt="Screenshot 2026-08-17 143806" src="https://github.com/user-attachments/assets/c42e2ace-068d-418c-8102-70461ffc4e41" />
 
-Email Transforms
+### Email Transforms
 
 Screenshot showing the email-related transforms being selected or executed.
 
 <img width="1517" height="955" alt="Screenshot 2026-08-17 143823" src="https://github.com/user-attachments/assets/99568c4b-e7d9-4dc4-82e3-b3c0f523db76" />
 
 
-Maltego Results
+### Maltego Results
 
 Screenshot showing the resulting entities and relationships in the Maltego graphical workspace.
 
