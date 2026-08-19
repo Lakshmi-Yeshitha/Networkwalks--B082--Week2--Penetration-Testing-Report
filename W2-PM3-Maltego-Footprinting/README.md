@@ -9,7 +9,7 @@
 | **Program/Batch** | B082-Networkwalks |
 | **Date** | 17 August 2026 |
 | **Modules completed** | W2-PM3 (Footprinting with Maltego)|
-| **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
+| **Client/Target** | Networkwalks.com (authorized target) |
 | **Permission secured from client?** | Yes |
 | **Phases covered** | **Phase 1:** Reconnaissance & Footprinting<br>**Phase 2:** OSINT & Information Gathering |
 
@@ -116,6 +116,7 @@ Based on the OSINT activity performed using Maltego, I identified the following 
 | 1      | Email information discoverable           | Email-related transforms were used against the authorized domain        | Publicly available email information may potentially be used for phishing or social engineering | **● Medium**   |
 | 2      | Domain information publicly discoverable               | A domain entity was created for `networkwalks.com`           | Public information may help an attacker build an initial footprint of an organization                                              | **● Low**      |
 | 4      | Relationships between entities can be identified                  | Maltego displayed information in a graphical relationship format                 | Connected information may help an attacker perform further reconnaissance                                           | **● Medium**      |
+
 **Risk level key:** ● Critical ● Medium ● Low
 
 The risks listed above are potential risks based on information exposure and are not confirmed vulnerabilities.
